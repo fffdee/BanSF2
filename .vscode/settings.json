@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bg_ringbuffer.h": "c",
+        "algorithm": "c"
+    }
+}
